@@ -1,5 +1,5 @@
 "Food Munch"
-publish link: foodmunch1gk95.ccbp.tech
+publish link: https://foodmunch1gk95.ccbp.tech/
 
 <div style="text-align: center;">
   <a href="https://foodmunch1gk95.ccbp.tech/">
